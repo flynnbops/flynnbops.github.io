@@ -14,11 +14,11 @@ While I was writing some tests I needed to figure out a way to get a reference (
 *Fig.1 Image showing a row of data in a table*
 
 
-The reference is only shown on screen to a user after they click on the `show/hide details` icon (+), which expands the view to show additional information.
+The reference is only shown on screen to a user after they click on the `show/hide details` (+)icon, which expands the view to show additional information.
 Most importantly the reference we care about under the `The Reference I want` heading, which in this case is `123ABC`.
 
 ![Expanded table row of data](/images/2020-09-01-expanded_row.PNG)
-*Fig.2 Image showing a the expanded row and reference heading*
+*Fig.2 Image showing the expanded row and reference information*
 
 That's pretty easy manually, but I wanted to implement something that would be pretty efficient and readable, without redundant clicks.
 I had a snoop around the HTML to see if there was anything that could help.
@@ -33,7 +33,7 @@ Praise the [Omnissiah]!
 </td>
 {% endhighlight %}
 
-With this bit if useful insight I could access the [capybara attributes] to get my reference, and do some testing.
+With this I could access the [capybara attributes] to get my reference, without needing to expand the view, which lines up nicely with what I wanted to achieve.
 
 {% highlight ruby %}
 # Capybara snippet to get the value of the reference
