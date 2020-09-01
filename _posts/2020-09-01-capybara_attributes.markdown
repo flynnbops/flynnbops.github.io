@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Capybara attributes"
-date:   2020-07-09 14:31:47 +0100
+date:   2020-09-01 14:31:47 +0100
 categories: jekyll update
 ---
 
