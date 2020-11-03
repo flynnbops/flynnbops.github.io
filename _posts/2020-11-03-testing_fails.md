@@ -1,5 +1,3 @@
-﻿<![endif]-->
-
 ---
 
 layout: post
