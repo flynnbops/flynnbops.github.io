@@ -15,6 +15,12 @@ I start writing and saving [my Gists][1] somewhere.
 ## Quick Links
 [HMLR Acceptance Test Skeleton][2]
 
+[HMLR common development environment][3]
+
+[Automation training service][4]
+
 
 [1]: https://gist.github.com/flynnbops
 [2]: https://github.com/LandRegistry/skeleton-acceptance-tests
+[3]: https://github.com/LandRegistry/common-dev-env
+[4]: https://automation-training.herokuapp.com/
