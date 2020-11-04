@@ -48,7 +48,7 @@ Not setting stuff up fully / correctly has been the cause of many hours of hards
 
 - If you can't figure out why "it won't work even though it’s all setup" ... probably worth checking that assumption
 
-- Hey is this thing on? Possibly ...
+- Hey is this [golden throne](https://wh40k.lexicanum.com/wiki/Golden_Throne) thing on? Possibly ...
 
 # Live demo / training fails
 
