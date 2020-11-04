@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
-##  What am I even doing?
+I'm using this site, to write down some of my thoughts and experiences. Which might be useful to other people too.
 
-I've no idea. So better learn how to use Github pages, and Jekyll to make this whole thing bearable.
+I work on private code bases / projects, so my Github profile doesn't really showcase what I've been doing. This blog is my way of reflecting on some situations, and trying to share the learning wider.
