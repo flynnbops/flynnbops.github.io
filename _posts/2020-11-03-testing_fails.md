@@ -52,7 +52,7 @@ Not setting stuff up fully / correctly has been the cause of many hours of hards
 
 # Live demo / training fails
 
-I deliver lots of training, and generally support people in my job. While I'm usually well prepared, and like to get into a good headspace to do whatever it is I'm doing, I sometimes (we all do right?) roll straight into a demo off the back of another meeting. It’s fair to say that those aren't always the slickest sessions, and I really should protect some prep time. If I'm being fair, I'm not terrible at it, and have present some material so often that its muscle memory.
+I deliver lots of training, and generally support people in my job. While I'm usually well prepared, and like to get into a good headspace to do whatever it is I'm doing, I sometimes (we all do right?) roll straight into a demo off the back of another meeting. It’s fair to say that those aren't always the slickest sessions, and I really should protect some prep time. If I'm being fair, I'm not terrible at it, and have presented some material so often that its muscle memory.
 
 Anyway! I digress.
 
@@ -66,4 +66,4 @@ If making silly mistakes in front of one person is bad. Making really silly mist
 
 - Some funny typos and having a laugh at yourself can break the silence of a video call. e.g. when I mistyped `docker` as something slightly rude
 
-- Stuff will go wrong, but talk through it. Your process for resolving it, is probably more valuable that whatever you were talking about.
+- Stuff will go wrong, but talk through it. Your process for resolving it, is probably more valuable than whatever you were talking about.
