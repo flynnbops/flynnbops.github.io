@@ -29,7 +29,7 @@ This session let me try something that could be setup without much structure. Th
 
 ## What did we talk about
 
-After some quick introductions, to break the ice we covered some topics that brought out different views and experiences. Some looking like good topics for follow up sessions. The topics helped; build some common ground, share approaches that have worked well(or not), and more than a few laughs.
+After some quick introductions, to break the ice we covered some topics that brought out different views and experiences. Some looking like good topics for follow up sessions. The topics helped; build some common ground, share approaches that have worked well(or not), and have a few laughs.
 
 Topics included:
 - exploring remote tools
@@ -40,7 +40,7 @@ Topics included:
 ![Our topics](/images/2020-12-02_topics.PNG)
 *Fig.2 Image of topics covered from Lean Coffee Table*
 
-Of course, the conversation wasn't without controversy. One topic threatened to end this fledgling community before we gained any real momentum, and cause a cross government schism.   
+Of course, the conversation wasn't without controversy. One topic threatened to end this experiment before we gained any real momentum and cause a cross government schism.   
 
 ![Controvers-tea](/images/2020-12-02_controversy.PNG)
 
@@ -50,7 +50,7 @@ I'd rather not reopen any wounds. Thanks for understanding.
 
 ## What did we learn?
 
-In the simplest terms, we got to meet other people in similar roles across government and share some ideas. We're dealing with some similar challenges, that we could focus on to share some knowledge. I've no doubt we'll build on this and figure out how to work across departments a little more. It was also nice to just speak to some people from different parts of the country (and see their pets), who are really just doing their best to keep moving forward.
+In the simplest terms, we got to meet other people in similar roles across government and share some ideas. We're dealing with some similar challenges, that we could focus on to share some knowledge. I've no doubt we'll build on this and figure out how to work across departments a little more. It was also nice to just speak to some people from different parts of the country (and see their pets), who are really just doing their best to keep moving forward. All of which shows there is appetite for this sort of thing.
 
 To (badly) paraphrase [Alan Page](https://angryweasel.com/blog/about-alan/):
 
