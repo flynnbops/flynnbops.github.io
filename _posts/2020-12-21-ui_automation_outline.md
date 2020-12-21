@@ -8,6 +8,9 @@ tags: mot
 
 Outline for UI article from [MOT call for content](https://club.ministryoftesting.com/t/call-for-content-four-articles-on-ui-automation/45557)
 
+
+> Title: My five years of UI Automation at HM Land Registry 
+
 # The Context
 
 This article will cover my experience with UI testing over the last 5 years in the UK government department [HM Land Registry(HMLR)](https://www.gov.uk/government/organisations/land-registry).
@@ -27,3 +30,10 @@ We shared this learning with the HMLR testing community and other departments, c
 I want to share the things I learned, how we got there, and what problems we were trying to address. So that you can follow the journey, and see if that can help you in your context.
 
 It's important to me that I share the things that worked well and didn't, things we still struggle with, and what I think our next steps are.
+
+# Key Takeaways
+
+- Have a clear goal for your UI automation
+- Have some way to check you are aligned to that goal
+- Reevalute what you are doing
+- Keep trying to improve
