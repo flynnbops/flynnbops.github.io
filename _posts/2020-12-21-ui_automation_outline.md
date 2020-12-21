@@ -14,7 +14,7 @@ This article will cover my experience with UI testing over the last 5 years in t
 
 I'll largely talk through my experiences on the [Local Land Charges(LLC) programme](https://www.gov.uk/government/publications/hm-land-registry-local-land-charges-programme/local-land-charges-programme). In short we are taking data from 300(ish) local authorities, and creating services to maintain and allow the public to search that data.
 
-Many of the challenges we faced, have alreadt been solved by others with good design, models, and principals.
+Many of the challenges we faced, have already been solved by others with good design, models, and principals.
 
 I want to show how we learned and incorporated these ideas, while delivering as part of a large programme.
 
@@ -24,6 +24,6 @@ Over the 5 years, we encountered lots of challenges, and tried different ways to
 
 We shared this learning with the HMLR testing community and other departments, collaborating with other teams to share ideas. These experiences feed into the [HMLR UI standard.](https://github.com/LandRegistry/skeleton-acceptance-tests/wiki/Introduction)
 
-I want to share the things I learned, how we got there, and what problems we were trying to address. So that you can follow my journey, and see if that can help you in your context.
+I want to share the things I learned, how we got there, and what problems we were trying to address. So that you can follow the journey, and see if that can help you in your context.
 
 It's important to me that I share the things that worked well and didn't, things we still struggle with, and what I think our next steps are.
