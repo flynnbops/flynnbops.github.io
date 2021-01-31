@@ -22,7 +22,7 @@ My personal board used to track the chaotic mess that is sometimes my mind. I've
 *Fig.1 Image showing a screenshot of a Trello Board*
  
 ## Eisenhower matrix
-I've been using https://app.eisenhower.me/ to help prioritise and manage my tasks during the week. The simple 4 quadrants have really helped me focus on the most important things at any time. It helps me stay calm when things get hectic and stressful. I know what thing needs attention next most of the time.
+I've been using an [Eisenhower matrix](https://app.eisenhower.me/) to help prioritise and manage my tasks during the week. The simple 4 quadrants have really helped me focus on the most important things at any time. It helps me stay calm when things get hectic and stressful. I know what thing needs attention next most of the time.
  
 ![My Eisenhower matrix](/images/2021-01-31-eisenhower.PNG)
 *Fig.2 Image showing a screenshot of an eisenhower matrix*
