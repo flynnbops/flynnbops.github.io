@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Managing and achieving goals"
+date: 2021-01-31 14:30:00 +0100
+categories: jekyll update
+tags: bloggers_club mot
+---
+[MOT Bloggers Club January 2021](https://club.ministryoftesting.com/t/bloggers-club-january-2021/46060)
+>  Managing and achieving goals
+
+I'd love to say that I always manage my goals and tasks effectively. I make use of a few different techniques and models which are helpful, but being a fallible human being I often mess up.
+ 
+# What do I use?
+ 
+## SMART-Y pants
+In my organisation I use [SMART objectives](https://www.mindtools.com/pages/article/smart-goals.htm) to document and track what I want to achieve for the reporting year. Overall I find it an effective way to think about what you want to do, why you want to do it, and how you think you can get it done. I track these in an internal tool. Which is handy for adding updates and stuff like that.
+ 
+## Trello
+My personal board used to track the chaotic mess that is sometimes my mind. I've implemented something that resembles a bad filing system and a Kanban board. It's full of things that I don't want to forget: goals, tasks, and whatever else. In general it's a semi organised brain dump which is useful in its own right.
+
+![My Trello madness](/images/2021-01-31-trello.PNG)
+*Fig.1 Image showing a screenshot of a Trello Board*
+ 
+## Eisenhower matrix
+I've been using https://app.eisenhower.me/ to help prioritise and manage my tasks during the week. The simple 4 quadrants have really helped me focus on the most important things at any time. It helps me stay calm when things get hectic and stressful. I know what thing needs attention next most of the time.
+ 
+![My Eisenhower matrix](/images/2021-01-31-eisenhower.PNG)
+*Fig.2 Image showing a screenshot of an eisenhower matrix*
+ 
+# How does this work out?
+In writing this post, I've concluded I probably have too many places to track my goals. Most of the things I use are helpful for task management. I find them all useful, but they aren't joined up to fully support me and my goals.
+
+I have SMART goals, but the things I need to do aren't flowing into my day to day task management. I need to have another think about how this all hangs together, and see if I can improve flow.
+
+Thanks for the topic. It certainly got me thinking.
