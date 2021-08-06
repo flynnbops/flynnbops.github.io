@@ -21,7 +21,7 @@ I'm going to tweak this months topic to cover my first week at my new company. R
 # First impressions
 I started with a call to Lauren from HR. We went through some standard things to get me started: access to emails, pointed to internal guidance, and a pleasant chat. I'd already received my kit, and a minor access issue was sorted quickly. I had access to emails and other important stuff from the start. Unheard of!
 
-## More people
+# More people
 Following on with meeting my line manager, buddy, team, fellow SDETs ... Names and faces overload. But great to meet people. Looking forward to building relationships. I've got some people on my list to reach out to next week and get talking.
 
 # Induction material
@@ -31,7 +31,7 @@ Much to my relief the variety of induction tasks meant I could balance my days. 
 
 I feel like I've learned a lot already, and I've not spent it all looking at documents. Brownie points for whoever was involved in setting it up.
 
-## Next steps
+# Next steps
 I need a tea and a nap.
 
 I've seen a few places I can add value, and maybe even be an `Expert`(one of the core values). 
