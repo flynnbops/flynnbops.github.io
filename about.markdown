@@ -4,7 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-I currently work in the UK Civil Service at HM Land Registry(HMLR), as a test engineer and manager. Primarily working on agile teams delivering web-based citizen, professional, and internal facing services.
+I am working as an SDET with [Brightpearl](https://www.brightpearl.com/). I joined in July 2021.
+
+I've previously worked in the UK Civil Service at HM Land Registry(HMLR), as a test engineer and manager. Primarily working on agile teams delivering web-based citizen, professional, and internal facing services.
 
 I am passionate about communities of practice. I believe that a strong, engaged community is the best way to support and develop a practice and its people. I am a core member of the HMLR test community, participating in and leading our regular community events and training. I represent the testing practice at “community of communities” events, which is where people from the different practices at HMLR come together to share ideas.
 

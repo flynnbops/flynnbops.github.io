@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  My first month (or so) at Brightpearl"
+title:  "My first month (or so) at Brightpearl"
 date:   2021-08-06 13:15:00 +0100
 categories: jekyll update
 tags: brightpearl
