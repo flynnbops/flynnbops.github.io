@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implementing Change"
+title: "Bloggers Club: Implementing Change"
 date: 2021-09-16 14:30:00 +0100
 categories: jekyll update
 tags: bloggers_club mot
