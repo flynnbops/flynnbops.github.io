@@ -34,5 +34,5 @@ With this I could access the [capybara attributes] to get my reference, without 
 **Note**: The images and HTML code snippets are not the from the real application. They are mocks with details changed and/or removed for simplicity. 
 
 
-[capybara attributes]: https://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Elementhttps://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Element
+[capybara attributes]: https://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Element
 [Omnissiah]: https://warhammer40k.fandom.com/wiki/Machine_God
