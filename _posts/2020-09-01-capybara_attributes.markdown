@@ -26,19 +26,9 @@ I had a snoop around the HTML to see if there was anything that could help.
 In the HTML for the `show details` icon I found the `data-ref` attribute, which contained the reference I wanted.
 Praise the [Omnissiah]!
 
-{% highlight html %}
-# HTML Code Snippet of the icon
-<td id="toggleAppDetails0" class="tableSpacing" headers="viewDetails">
-    <a href="#" data-ref="123ABC" data-expand="appDetails0" title="Show / hide details"> + </a>
-</td>
-{% endhighlight %}
+<script src="https://gist.github.com/flynnbops/d829eb6360e72adcaf91b34be0ef845b.js"></script>
 
 With this I could access the [capybara attributes] to get my reference, without needing to expand the view, which lines up nicely with what I wanted to achieve.
-
-{% highlight ruby %}
-# Capybara snippet to get the value of the reference
-my_precious_reference = find_by_id("toggleAppDetails0")['data-ref']
-{% endhighlight %}
 
 
 **Note**: The images and HTML code snippets are not the from the real application. They are mocks with details changed and/or removed for simplicity. 
