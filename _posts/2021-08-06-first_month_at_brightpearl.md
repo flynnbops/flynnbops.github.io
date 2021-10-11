@@ -66,5 +66,5 @@ Guild work: on standards, my own actions, and updating docs. Setup to test stori
 Testing and pairing. Accessibility conversations. SDET docs and ideas about approaches.
 
 
-[1]: https://flynnbops.github.io/jekyll/update/2021/07/09/first_week_at_brightpearl.html
+[1]:{% link _posts/2021-07-09-first_week_at_brightpearl.md %}
 [2]: https://www.donut.com/

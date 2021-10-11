@@ -24,15 +24,14 @@ That's pretty easy manually, but I wanted to implement something that would be p
 I had a snoop around the HTML to see if there was anything that could help.
 
 In the HTML for the `show details` icon I found the `data-ref` attribute, which contained the reference I wanted.
-Praise the [Omnissiah]!
+Praise the [Omnissiah][1]!
 
 <script src="https://gist.github.com/flynnbops/d829eb6360e72adcaf91b34be0ef845b.js"></script>
 
-With this I could access the [capybara attributes] to get my reference, without needing to expand the view, which lines up nicely with what I wanted to achieve.
+With this I could access the [capybara attributes][2] to get my reference, without needing to expand the view, which lines up nicely with what I wanted to achieve.
 
 
 **Note**: The images and HTML code snippets are not the from the real application. They are mocks with details changed and/or removed for simplicity. 
 
-
-[capybara attributes]: https://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Elementhttps://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Element
-[Omnissiah]: https://warhammer40k.fandom.com/wiki/Machine_God
+[1]: https://warhammer40k.fandom.com/wiki/Machine_God
+[2]: https://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Elementhttps://rubydoc.info/github/jnicklas/capybara/master/Capybara/Node/Element

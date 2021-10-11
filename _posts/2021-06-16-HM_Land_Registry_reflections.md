@@ -27,4 +27,5 @@ Take care
 Aaron
 
 [1]: https://www.gov.uk/government/organisations/land-registry
-[2]: https://flynnbops.github.io/jekyll/update/2021/06/16/letter_to_HMLR_test_community.html
+[2]: {% link _posts/2021-06-16-letter_to_HMLR_test_community.md %}
+
