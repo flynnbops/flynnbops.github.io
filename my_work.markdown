@@ -6,7 +6,8 @@ permalink: /my_work/
 
 This is a place for anything I've done and want to highlight.
 
-## My publications
+## My publications and talks
+- November 2021: [South West Test: My experience with writing]({% link _posts/2022-02-18-swtest_writing.md %})
 - February 2021: [UI automation article for Ministry of Testing][3]
 - April 2021: Contributed a chapter to [Testing Stories][4]
 - June 2021: [Accessibility Testing article for Ministry of Testing][5]
