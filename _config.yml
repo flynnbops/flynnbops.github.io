@@ -31,6 +31,7 @@ github_username:  flynnbops
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-spaceship
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +52,19 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - mermaid-processor
+  mermaid-processor:
+    mode: default  # mode value 'pre-fetch' for fetching image at building stage
+    css:
+      class: mermaid
+    syntax:
+      code: 'mermaid!'
+      custom: ['@startmermaid', '@endmermaid']
+    config:
+      theme: default
+    src: https://mermaid.ink/svg/

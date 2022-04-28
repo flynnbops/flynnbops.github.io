@@ -19,5 +19,18 @@ For example:
     {% link _posts/2021-07-09-first_week_at_brightpearl.markdown %}
 ```
 
+## Using Mermaid
+I've added support for [mermaid diagrams][3] with the [jekyll-spaceship][4] plugin. Mermaid diagrams can be included within code block markdown.
+
+```mermaid
+flowchart LR 
+
+A --> B
+B --> C
+C --> A
+```
+
 [1]: https://jekyllrb.com/docs/
 [2]: https://pages.github.com/
+[3]: https://github.com/mermaid-js/mermaid#readme
+[4]: https://github.com/jeffreytse/jekyll-spaceship#4-mermaid-usage
