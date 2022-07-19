@@ -7,6 +7,7 @@ permalink: /my_work/
 This is a place for anything I've done and want to highlight.
 
 ## My publications and talks
+- June 2022: [TestBash World - Share Your Experiences Through Writing][7]
 - November 2021: [South West Test: My experience with writing]({% link _posts/2022-02-18-swtest_writing.md %})
 - February 2021: [UI automation article for Ministry of Testing][3]
 - April 2021: Contributed a chapter to [Testing Stories][4]
@@ -24,3 +25,4 @@ This is a place for anything I've done and want to highlight.
 [4]: https://leanpub.com/testing_stories
 [5]: https://www.ministryoftesting.com/dojo/series/the-testing-planet-2021/lessons/accessibility-testing-of-a-government-website-experience-and-recommendations
 [6]: https://gist.github.com/flynnbops
+[7]: https://www.ministryoftesting.com/dojo/series/testbash-world-2022/lessons/share-your-experiences-through-writing-aaron-flynn
