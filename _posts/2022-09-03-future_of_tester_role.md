@@ -42,7 +42,7 @@ People are funny creatures and learning how to work well with people is a vital 
 ## What does the future hold?
 You may have noticed lots of `coaching` mentioned in the previous section. I always see testers doing actual testing. I believe the best value of testers is to support good testing. Which means doing some of it themselves, and enabling others to do some.
 
-```mermaid!
+```mermaid
 flowchart LR
 
 tt[Traditional Testing]
