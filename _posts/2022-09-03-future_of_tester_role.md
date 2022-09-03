@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MOT Bloggers Club August 2022"
+title: "Bloggers club: Future of tester role"
 date: 2022-09-03 12:00:00 +0100
 categories: jekyll update
 tags: bloggers_club mot
