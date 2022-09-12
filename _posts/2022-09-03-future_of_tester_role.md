@@ -42,7 +42,27 @@ People are funny creatures and learning how to work well with people is a vital 
 ## What does the future hold?
 You may have noticed lots of `coaching` mentioned in the previous section. I always see testers doing actual testing. I believe the best value of testers is to support good testing. Which means doing some of it themselves, and enabling others to do some.
 
-```mermaid
+![Test to Coaching](/images/2022-09-03-qe.PNG)
+*Fig.1 Image showing the how testing flows into different coaching options and quality*
+
+
+I personally believe things like [modern testing principles][3], and [whole team approaches to quality][4], will lead to `Quality Engineering`. By that I mean, practices and approaches that put `quality` into the whole `engineering` lifecycle. Meaning we do things better, and make better things for our users.
+
+
+## Predictions
+I've not talked about many if any specifics in this post, so thought I'd try some possibly wild predictions
+
+- Low code automation tools will increase in popularity and adoption
+- Due to the low barrier to entry, lots of tests will be created, but overall test design will be poor, and maintenance will be a nightmare.
+- This will lead to (re)adoption of code based tools.
+- There will still be a large market for more `traditional testing` roles.
+
+
+
+### Appendix
+My mermaid diagram didn't generate as expected so falling back to an image. Keeping the original `mermaid` code for reference.
+
+```mermaid!
 flowchart LR
 
 tt[Traditional Testing]
@@ -58,21 +78,7 @@ tt --> ac
 qc -->qe
 tc -->qe
 ac -->qe
-
 ```
-
-I personally believe things like [modern testing principles][3], and [whole team approaches to quality][4], will lead to `Quality Engineering`. By that I mean, practices and approaches that put `quality` into the whole `engineering` lifecycle. Meaning we do things better, and make better things for our users.
-
-
-## Predictions
-I've not talked about many if any specifics in this post, so thought I'd try some possibly wild predictions
-
-- Low code automation tools will increase in popularity and adoption
-- Due to the low barrier to entry, lots of tests will be created, but overall test design will be poor, and maintenance will be a nightmare.
-- This will lead to (re)adoption of code based tools.
-- There will still be a large market for more `traditional testing` roles.
-
-
 
 [1]: https://club.ministryoftesting.com/t/bloggers-club-august-2022-the-future-of-the-tester-role/61680
 [2]: https://dowen.me.uk/the-future-of-software-testing/
