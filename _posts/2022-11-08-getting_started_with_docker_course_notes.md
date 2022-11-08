@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Course notes: Getting stared with Docker"
+title: "Course notes: Getting started with Docker"
 date: 2022-11-08 10:30:00 +0100
 categories: jekyll update
 tags: notes course
