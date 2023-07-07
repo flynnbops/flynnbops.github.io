@@ -22,9 +22,9 @@ This is a place for anything I've done and want to highlight.
 
 [1]: https://github.com/LandRegistry/skeleton-acceptance-tests
 [2]: https://github.com/flynnbops/automation-training
-[3]: https://www.ministryoftesting.com/dojo/series/the-testing-planet-2021/lessons/me-myself-and-ui-my-experiences-with-ui-testing-at-hm-land-registry
+[3]: https://www.ministryoftesting.com/articles/2baf7a31?s_id=15224168
 [4]: https://leanpub.com/testing_stories
-[5]: https://www.ministryoftesting.com/dojo/series/the-testing-planet-2021/lessons/accessibility-testing-of-a-government-website-experience-and-recommendations
+[5]: https://www.ministryoftesting.com/articles/d5a980d5?s_id=15224168
 [6]: https://gist.github.com/flynnbops
-[7]: https://www.ministryoftesting.com/dojo/series/testbash-world-2022/lessons/share-your-experiences-through-writing-aaron-flynn
+[7]: https://www.ministryoftesting.com/testbash-talks/b54864e6?s_id=15224168
 [8]: https://club.ministryoftesting.com/t/event-write-up-how-does-bloggers-club-help-your-career/63182
