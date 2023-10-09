@@ -22,6 +22,8 @@ I like to use `skill levels` to help me define the depth I might need. I use a m
 ### Skill levels
 Generally, going from "no Awareness" to "Awareness" should be simple enough. Things like introductions or overviews to "the thing", often are enough.
 As you spend more time using `the thing` you'll move into "Working" and beyond.
+
+
 I use this as a guide rather than being overly strict with the levels. "All models are useful ..." etc.
 
 - Awareness
@@ -41,15 +43,15 @@ I use this as a guide rather than being overly strict with the levels. "All mode
 
 ## What works well for me?
 
-I like to consume different forms of information, and find the variety helps me learn. This ranges from; blogs, documentation, videos, podcasts, training courses, to random chats with people.
+I like to consume different formats of information, and find the variety helps me learn. This ranges from; blogs, documentation, videos, podcasts, training courses, to random chats with people.
 I find a decent foundation (awareness), means I'm primed to take in more information. Thankfully there's lots of great content out there for people to consume, so I can easily check something out, and move on if it doesn't suit me.
 
 I've had my best successes when I align my learning with a goal. As I've already alluded to.
-A recent example is how I [learned more about Docker so that I could solve a specific problem][4]. I'd worked with Docker for a few years at that point, but generally just used the basics. 
+A recent-ish example is how I [learned more about Docker so that I could solve a specific problem][4]. I'd worked with Docker for a few years at that point, but generally just used the basics. 
 Having a specific problem to solve helped me learn more without getting overwhelmed. 
 
 I'm guilty of being inconsistent with my "deliberate learning". Having goals, helps me figure out a path forward, and with that make some regular time to work towards the goal.
-As with most things consistency is key, and that's where I tend to fall down with my `continous learning`.
+As with most things consistency is key, and that's where I tend to fall down with my `continuous learning`.
 
 ## What support do I use?
 I try to read and learn from interesting people. Often saving things I've found useful into a [small repo references][3]. 
