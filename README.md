@@ -3,8 +3,17 @@
 Built using [Jekyll][1] and hosted on [GitHub pages][2] at https://flynnbops.github.io/
 
 ## Build locally
-Run `bundle exec jekyll serve` to make changes.
-Site is available on `http://127.0.0.1:4000/` by default.
+Site is available on `http://127.0.0.1:4000/`. Changes to posts are automatically picked up.
+
+### Using locally installed ruby
+Run `bundle exec jekyll serve` to build the site. 
+
+### Using Docker
+1. `docker build -t jekyll .`
+2. `docker run -p 4000:4000 -v .:/src jekyll`
+
+To shutdown the container:
+- `docker stop {containerID}`
 
 ## Edit drafts
 Drafts are files that do not include a date in their filename. Stored in `/drafts`.
