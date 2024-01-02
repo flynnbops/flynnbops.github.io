@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Currently
-I am working as a Senior SDET with [Brightpearl](https://www.brightpearl.com/), embedded in a delivery team, and working with the SDET guild (community of practice). I joined in July 2021. I am passionate about communities of practice. I believe that a strong, engaged community is the best way to support and develop a practice and its members.
+I worked as a Test Engineer with [BJSS](https://bjss.com/) Exeter. Embedded in a blended delivery team with our client.
 
 I've started speaking at community events, as another thing to help me grow. You can watch my [talk on writing]({% link _posts/2022-02-18-swtest_writing.md %}) if you are curious.
 
@@ -15,6 +15,8 @@ I'm comfortable working with; version control, Docker, CICD, cloud infrastructur
 
 
 ## Previously
+I worked as a Senior SDET with [Brightpearl](https://www.brightpearl.com/), embedded in a delivery team, and working with the SDET guild (community of practice).
+
 I worked in the UK Civil Service at HM Land Registry(HMLR), as a test engineer and manager. Primarily working on agile teams delivering web-based citizen, professional, and internal facing services.
 
 I was a core member of the HMLR test community, participating in and leading our regular community events and training. I represented the testing practice at “community of communities” events, where people from the different practices at HMLR came together to share ideas.
