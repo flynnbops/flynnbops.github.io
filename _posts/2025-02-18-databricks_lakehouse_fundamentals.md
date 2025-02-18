@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  "Databricks: Lakehouse fundamentals course"
+title:  "Course notes: (Databricks) Lakehouse fundamentals course"
+date: 2025-02-18 14:00:00 +0100
 categories: jekyll update
+tags: notes course databricks
 ---
 ## Course details
-Links require a partner account to access.
+Course link require a partner account to access.
 I've setup and signed into mine.
+After completing the course there is a 20 question quiz to get `accredited`.
 
 - [Fundamentals of the Databricks Lakehouse Platform][1]
 - Duration: approx. 1hr 30mins
@@ -16,7 +19,7 @@ I've setup and signed into mine.
 3. Databricks Lakehouse Platform Architecture and Security Fundamentals
 4. Supported Workloads on the Databricks Lakehouse Platform 
 
-### 1. Data Lakehouse
+### 1. Data lakehouse
 #### History
 
 Data warehouse: only handle data with fixed schema. Couldn't handle data variety.
@@ -40,11 +43,11 @@ Neither approach met all needs. Resulting in complex combinations of both.
 
 ### 2. Databricks Lakehouse Platform
 > Designed to be an open, unified platform, while being vendor agnostic
-
+- Can ingest data from multiple sources and formats
 
 ### 3. Platform Architecture and Security Fundamentals
 
-#### Data reliability in Datalakes
+#### Data reliability in a datalake
 - Great at holding data, but it can be low quality data
 
 #### Delta lake
@@ -68,7 +71,7 @@ Neither approach met all needs. Resulting in complex combinations of both.
 - Provide data lineage charts
 
 #### Delta Sharing
-- open cross platform sharing with dat recipients
+- open cross platform sharing with data recipients
 - share data live, not copies
 - Audit and governance owned by data provider
 
@@ -78,9 +81,9 @@ Neither approach met all needs. Resulting in complex combinations of both.
 - `Control` manages your account
 - `Compute` where the data is processed inside data owners account by default
 
-#### Instant Compute and serverless
+#### Instant Compute and server less
 
-- Serverless: fully managed by databricks in the databricks cloud account. Resources used from a shared pool.
+- Server less: fully managed by databricks in the databricks cloud account. Resources used from a shared pool.
 
 #### Terminology
 
@@ -110,10 +113,10 @@ Tables: Table metadata + the actual data.
 
 ##### Delta Live Table (DLT)
 - Treat data as code
-- Testing, multiple envs
+- Testing, multiple environments etc
 
 ##### Databricks workflows
-> Orchestate anything you need to do with data!
+> Orchestrate anything you need to do with data!
 
 - Can use UI, create via Internal and external APIs
 
@@ -125,8 +128,9 @@ Main use cases:
 - ML
 - applications
 
-#### Data science and ML
+## Supporting information
 
-
+- [Lakehouse intro docs][2]
 
 [1]: https://partner-academy.databricks.com/learn/courses/1325/fundamentals-of-the-databricks-lakehouse-platform/lessons
+[2]: https://docs.databricks.com/en/lakehouse/index.html
