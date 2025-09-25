@@ -18,7 +18,7 @@ StopTober tool. New version. Approaching release.
   - Many lessons from that had already been applied
   - But we compared audit findings to PQP for any focus areas
 
-## Goals
+## Goals 
 - Expand testing breath and depth in NHS lab
     - Personas
     - More technology
